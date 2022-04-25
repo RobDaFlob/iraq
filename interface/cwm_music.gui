@@ -1,6 +1,6 @@
 guiTypes = {
 	containerWindowType = {
-		name = "iw_test_station_faceplate"
+		name = "irq_baghdad_radio"
 		position = { x=0 y=0 }
 		size = { width = 590 height = 46 }
 
