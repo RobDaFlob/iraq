@@ -1,6 +1,6 @@
 music_station = "iw_test_station"
 music = {
-	song = "test_song"
+	song = "the_royal_salute"
 	chance = {
 		factor = 0
 		modifier = {

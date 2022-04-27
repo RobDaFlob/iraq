@@ -1,4 +1,6 @@
 music = {
-	name = "test_song"
-	file = "test_song.ogg"
+	#name = ""
+	#file = ""
+	name = "the_royal_salute"
+	file = "the_royal_salute.ogg"
 }
