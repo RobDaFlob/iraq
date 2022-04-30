@@ -1,6 +1,114 @@
+#name = ""
+#file = ""
+#Monarchist
 music = {
-	#name = ""
-	#file = ""
 	name = "the_royal_salute"
 	file = "the_royal_salute.ogg"
+}
+
+#Republic
+music = {
+	name = "i_am_iraq"
+	file = "i_am_iraq.ogg"
+}
+
+music = {
+	name = "walla_zaman_ya_selahy"
+	file = "walla_zaman_ya_selahy.ogg"
+}
+
+music = {
+	name = "good_morning_morning_of_the_revolution"
+	file = "good_morning_morning_of_the_revolution.ogg"
+}
+
+#Baathist
+music = {
+	name = "my_homeland_rare"
+	file = "my_homeland_rare.ogg"
+}
+
+music = {
+	name = "land_of_the_two_rivers"
+	file = "land_of_the_two_rivers.ogg"
+}
+
+music = {
+	name = "land_of_the_two_rivers_extended"
+	file = "land_of_the_two_rivers_extended.ogg"
+}
+
+music = {
+	name = "the_homeland_is_always_with_you"
+	file = "the_homeland_is_always_with_you.ogg"
+}
+
+music = {
+	name = "We_walked_through_the_war"
+	file = "We_walked_through_the_war.ogg"
+}
+
+music = {
+	name = "Here_Soldiers_of_truth"
+	file = "Here_Soldiers_of_truth.ogg"
+}
+
+music = {
+	name = "swords_of_iraq"
+	file = "swords_of_iraq.ogg"
+}
+
+music = {
+	name = "Glory_to_the_banner_of_Islam"
+	file = "Glory_to_the_banner_of_Islam.ogg"
+}
+
+music = {
+	name = "Glory_to_you_arab_world"
+	file = "Glory_to_you_arab_world.ogg"
+}
+
+music = {
+	name = "The_Song_of_the_Iraqi_Air_Force"
+	file = "The_Song_of_the_Iraqi_Air_Force.ogg"
+}
+
+music = {
+	name = "Jerusalem_is_in_our_Eyes"
+	file = "Jerusalem_is_in_our_Eyes.ogg"
+}
+
+music = {
+	name = "welcome_battles_of_fate"
+	file = "welcome_battles_of_fate.ogg"
+}
+
+music = {
+	name = "We_are_sovereign"
+	file = "We_are_sovereign.ogg"
+}
+
+music = {
+	name = "We_Sacrifice_for_you_Al_Aqsa"
+	file = "We_Sacrifice_for_you_Al_Aqsa.ogg"
+}
+
+music = {
+	name = "hymn_of_the_bayonets"
+	file = "hymn_of_the_bayonets.ogg"
+}
+
+music = {
+	name = "The_Torch_of_the_Morning_Resurrection"
+	file = "The_Torch_of_the_Morning_Resurrection.ogg"
+}
+
+music = {
+	name = "Advance_forward_in_One_and_Twos"
+	file = "Advance_forward_in_One_and_Twos.ogg"
+}
+
+music = {
+	name = "Song_of_the_Republican_Guard"
+	file = "Song_of_the_Republican_Guard.ogg"
 }
