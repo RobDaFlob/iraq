@@ -221,3 +221,53 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "Be_Strong_Baghdad"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+
+music = {
+	song = "By_the_name_of_allah"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+
+music = {
+	song = "Salute_to_the_seventh_brigade"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+
+music = {
+	song = "abu_hussein_ali"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}
+
+music = {
+	song = "rally_children"
+	chance = {
+		factor = 0
+		modifier = {
+			factor = 100
+		}
+	}
+}

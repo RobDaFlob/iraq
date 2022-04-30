@@ -112,3 +112,28 @@ music = {
 	name = "Song_of_the_Republican_Guard"
 	file = "Song_of_the_Republican_Guard.ogg"
 }
+
+music = {
+	name = "Be_Strong_Baghdad"
+	file = "Be_Strong_Baghdad.ogg"
+}
+
+music = {
+	name = "By_the_name_of_allah"
+	file = "By_the_name_of_allah.ogg"
+}
+
+music = {
+	name = "Salute_to_the_seventh_brigade"
+	file = "Salute_to_the_seventh_brigade.ogg"
+}
+
+music = {
+	name = "abu_hussein_ali"
+	file = "abu_hussein_ali.ogg"
+}
+
+music = {
+	name = "rally_children"
+	file = "rally_children.ogg"
+}
